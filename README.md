@@ -1,4 +1,4 @@
-@mmblanes
+## @mmblanes
 Seville, Spain
 
 # coursera-getting-and-cleaning-data-project
