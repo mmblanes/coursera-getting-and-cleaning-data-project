@@ -1,7 +1,7 @@
-## @mmblanes
+# @mmblanes
 Seville, Spain
 
-# coursera-getting-and-cleaning-data-project
+# Coursera: getting and cleaning data project
 Course project for Coursera "Getting and Cleaning Data" MMB
 
 Getting and Cleaning Data - Course Project
