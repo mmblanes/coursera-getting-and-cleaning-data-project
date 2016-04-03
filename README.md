@@ -1,6 +1,6 @@
 
 # Coursera: getting and cleaning data project
-Course project for Coursera "Getting and Cleaning Data" MMB
+Course project for Coursera "Getting and Cleaning Data" MMB.
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
 ### @mmblanes
 ### Seville, Spain
