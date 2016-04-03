@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project @mmblanes
-# * Data information and variables
-# * R script
+## *Data information and variables
+## *R script
 
 # Data information and variables
 About the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data cours.
