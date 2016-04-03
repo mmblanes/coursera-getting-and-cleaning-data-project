@@ -1,9 +1,13 @@
 
 # Coursera: getting and cleaning data project
+@mmblanes
+
+Seville, Spain
+
 Course project for Coursera "Getting and Cleaning Data" MMB.
+
 Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.
-### @mmblanes
-### Seville, Spain
+
 
 # Overview
 
@@ -11,7 +15,7 @@ This project complies with the idea of getting a tidy data set that can be used 
 
 # Making Modifications to This Script
 
-Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data. Note that on line 26 of run_analysis.R, you will set the path of the working directory to relect the location of the source files in your own directory.
+Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data. Note that on line 22 of run_analysis.R, you will set the path of the working directory to relect the location of the source files in your own directory.
 
 # Project Summary
 
