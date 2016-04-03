@@ -1,5 +1,6 @@
 # Getting and Cleaning Data Project @mmblanes
 ## *Data information and variables
+*  ## Data information and variables
 ## *R script
 
 # Data information and variables
